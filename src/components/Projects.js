@@ -1,9 +1,9 @@
 import { useState } from "react";
 import { Container, Row, Col, Tab, Nav, Modal, Carousel } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
-import proj_1Img1 from "../assets/img/diana/image-1.jfif";
-import proj_1Img2 from "../assets/img/diana/image-2.jfif";
-import proj_1Img3 from "../assets/img/diana/image-3.jfif";
+import proj_1Img1 from "../assets/img/diana/image-1.png";
+import proj_1Img2 from "../assets/img/diana/image-2.png";
+import proj_1Img3 from "../assets/img/diana/image-3.png";
 import proj_1Img4 from "../assets/img/diana/image-4.jfif";
 import proj_1Img5 from "../assets/img/diana/image-5.jfif";
 import proj_1Img6 from "../assets/img/diana/image-6.jfif";
