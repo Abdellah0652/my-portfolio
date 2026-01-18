@@ -55,7 +55,7 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <span className="tagline">Welcome to my Portfolio</span>
+                <span className="tagline">Welcome to my Portfolio Abdellah </span>
                 <h1>{`Hi! I'm Abdellah`} <span className="txt-rotate" dataPeriod="100" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>Passionate Full-Stack Developer with comprehensive expertise in React.js, Node.js, Django, and Python for building complete and high-performance web applications. Diverse experience in e‑commerce, data management, and educational platforms. Combines technical proficiency with an innovative mindset to create scalable, user‑centric solutions. Meticulous and methodical, excels in database optimization (PostgreSQL/MongoDB) and implementing robust architectures, while embracing agile methodologies for effective collaboration</p>
                   <button onClick={() => console.log('connect')}>Let’s Connect <ArrowRightCircle size={25} /></button>
