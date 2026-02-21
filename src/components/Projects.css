@@ -234,6 +234,7 @@
 }
 
 .image-count {
+
   display: flex;
   align-items: center;
   gap: 5px;
@@ -522,6 +523,10 @@
   cursor: pointer;
   transition: all 0.3s ease;
   border-radius: 15px;
+  height: 500px;
+  width: auto;
+  background-size: cover;
+
 }
 
 .carousel-image.clickable:hover {
@@ -832,6 +837,7 @@
 .image-counter-label{
   text-align: center;
   color: #e9e7ec;
+  height: 300px;
   
 }
 

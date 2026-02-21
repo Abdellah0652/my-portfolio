@@ -11,7 +11,7 @@ export const Education = () => {
       id: 1,
       institution: "Wisdom School",
       degree: "German Course (B2 Level)",
-      period: "2024 - Present",
+      period: "2025",
       location: "Fes, Morocco",
       description: "Intensive German language course focused on achieving B2 proficiency level for professional and academic purposes.",
       achievements: [
@@ -26,7 +26,7 @@ export const Education = () => {
       id: 2,
       institution: "Wisdom School",
       degree: "English Course",
-      period: "2024 - Present",
+      period: "2022 ",
       location: "Fes, Morocco",
       description: "Advanced English language course to enhance professional communication skills and technical vocabulary.",
       achievements: [

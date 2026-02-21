@@ -16,10 +16,10 @@ import proj_2Img3 from "../assets/img/chatme/image-3.jfif";
 import proj_2Img4 from "../assets/img/chatme/image-4.jfif";
 import proj_2Img5 from "../assets/img/chatme/image-5.jfif";
 
-import proj_3Img1 from "../assets/img/consulting/image-1.jfif";
-import proj_3Img2 from "../assets/img/consulting/image-2.jfif";
-import proj_3Img3 from "../assets/img/consulting/image-3.jfif";
-import proj_3Img4 from "../assets/img/consulting/image-4.jfif";
+import proj_3Img1 from "../assets/img/consulting/image-1.png";
+import proj_3Img2 from "../assets/img/consulting/image-2.png";
+import proj_3Img3 from "../assets/img/consulting/image-3.png";
+import proj_3Img4 from "../assets/img/consulting/image-4.png";
 
 import proj_4Img1 from "../assets/img/social-media/image-1.jfif";
 import proj_4Img2 from "../assets/img/social-media/image-2.jfif";
@@ -111,7 +111,7 @@ export const Projects = () => {
       imgUrl: proj_3Img1,
       images: [proj_3Img2, proj_3Img2, proj_3Img3, proj_3Img4],
       technologies: ["Vue.js", "D3.js", "Python", "FastAPI", "Chart.js"],
-      link: "https://financedash.demo",
+      link: "https://consulting-qj5u.vercel.app/",
       category: "web",
       detailedDescription: "FinanceDash est un tableau de bord analytique pour la visualisation de données financières avec rapports personnalisés, prédictions et alertes en temps réel.",
       features: [
